@@ -1,0 +1,7 @@
+git init
+git add command.txt
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/s373480363/GraphSpringBoot.git
+git push -u origin master
+git add . 
